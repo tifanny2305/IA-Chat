@@ -1,0 +1,10 @@
+flask
+flask-cors
+langchain
+langchain-community
+langchain-openai
+langchain-core
+chromadb
+psycopg2-binary
+python-dotenv
+gunicorn
